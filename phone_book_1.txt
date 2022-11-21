@@ -1,0 +1,9 @@
+fort,ben,89289839087,personal
+
+fort,ben,89289839086,work
+
+petrov,petr,89097876747,work
+
+fort,elena,89012436578,home
+
+faster,ron,87982098765,personal
